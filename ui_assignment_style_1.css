@@ -208,6 +208,16 @@
 .icon-card{
 
 }
+.blog-content{
+        color: lightslategray;
+        line-height: 0%;
+}
+.heart-icon{
+        color: red;
+}
+.color-lib{
+        color: blue;
+}
 @media only screen and (max-width: 400px) {
   .trans-navbar {
     background-color: blue;
