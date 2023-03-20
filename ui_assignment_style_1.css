@@ -1,0 +1,218 @@
+.bg-img {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ),url("xhero_1.jpg.pagespeed.ic.yu1ylfvph1.webp");
+        min-height: 750px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+}
+.header-container{
+        position: relative;
+}
+.nav-item .nav-link{
+        color: white !important;
+}
+.navbar-brand{
+        color: white !important;
+}
+.bg-img-content-bg{
+        font-size: 45px;
+        color: white;
+}
+.bg-img-content-sm{
+        color: white;
+}
+.header-content{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+.transparent-header{
+        position: relative;
+}
+.trans-navbar{
+        z-index: 1;
+}
+.btn-link{
+        color: white !important;
+}
+.flex-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        position: absolute;
+        width: 820px;
+        left: 450px;
+        top: 370px;
+      }
+.iconCard{
+        box-shadow: -1px 3px 52px 8px rgba(0,0,0,0.19);
+        padding: 35px;
+        background: white;
+}
+.iconPara{
+    margin-top: 25px;
+    color: #7c7c7c;
+    line-height: 1.8;
+    font-size: 19px;
+}
+.iconBtn{
+        color: black;
+}
+.iconStyle{
+        font-size: 60px;
+        color: blue;
+}
+.icon-card-container{
+        margin-top: -120px;
+}
+.agency_image{
+        width: 100%;
+}
+.whyus-card{
+        border: none !important;
+}
+.whyus-card-header{
+        background: none;
+        border: none !important;
+}
+.whyus-title{
+        color: black !important;
+        text-decoration: none !important;
+}
+..whyus-title:hover{
+        text-decoration: none !important;
+}
+.numeric{
+        font-size: 50px;
+        color: blue;
+      }
+      .string{
+        font-size: 14px;
+      }
+      .flexbox-leadership-paragraph{
+        font-size: 25px;
+        text-align: center;
+      }
+      .flexbox-leadership-img{
+        gap: 20px;
+        display: flex;
+      }
+      .flexbox-leadership-img-1{
+        background-image: url("xperson_1.jpg.pagespeed.ic.YTN3ICQ2Kp.webp");
+        background-position: center;
+        height: 300px;
+        width: 100%;
+        position: relative;
+      }
+      .flexbox-leadership-img-2{
+        background-image: url("xperson_2.jpg.pagespeed.ic.1296G1Z9Tt.webp");
+        height: 300px;
+        width: 100%;
+        position: relative;
+      }
+      .flexbox-leadership-img-3{
+        background-image: url("xperson_3.jpg.pagespeed.ic.lJKZ84375k.webp");
+        height: 300px;
+        width: 100%;
+        position: relative;
+      }
+      .flexbox-leadership-img-1-info{
+            background-color: white;
+            /* margin: 0 10px; */
+            padding: 5px 15px;
+            position: absolute;
+            width: 95%;
+            left: 2.5%;
+            bottom: 1.5%;
+      }
+      .flexbox-leadership-img-2-info{
+            background-color: white;
+            /* margin: 0 10px; */
+            padding: 5px 15px;
+            position: absolute;
+            width: 95%;
+            left: 2.5%;
+            bottom: 1.5%;
+      }
+      .flexbox-leadership-img-3-info{
+            background-color: white;
+            /* margin: 0 10px; */
+            padding: 5px 15px;
+            position: absolute;
+            width: 95%;
+            left: 2.5%;
+            bottom: 1.5%;
+      }
+      .flexbox-leadership-img-1-info > p > b{
+        font-size: 25px;
+        position: relative;
+        left: 3px;
+      }
+      .flexbox-leadership-img-2-info > p > b{
+        font-size: 25px;
+        position: relative;
+        left: 3px;
+      }
+      .flexbox-leadership-img-3-info > p > b{
+        font-size: 25px;
+        position: relative;
+        left: 3px;
+      }
+      .leadership-info{
+        position: relative;
+        left: 3px;
+        color: lightgray;
+      }
+.testPara{
+        font-size: 24px;
+        line-height: 45px;
+}
+.slick-dots li button:before{
+        font-size: 16px !important;
+}
+.serivceCard{
+        text-align: center;
+}
+.serivceTitle{
+        padding: 10px 0;
+}
+.serivcePara{
+        color: #646464;
+        margin: 0;
+        line-height: 30px;
+        font-size: 16px;
+}
+.moreFeature{
+        background: black;
+        border-color: black;
+        border-radius: none;
+}
+.moreFeature:hover{
+        background: black;
+        border-color: black;
+        border-radius: none;
+}
+.blogImage{
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+}
+.footerTitle{
+        color: #a1a1a1;
+}
+.footerPara{
+        color: #5c5c5c;
+        line-height: 30px;
+}
+.icon-card{
+
+}
+@media only screen and (max-width: 400px) {
+  .trans-navbar {
+    background-color: blue;
+  }
+  .icon-card{
+        margin-bottom: 10px;
+  }
+}
