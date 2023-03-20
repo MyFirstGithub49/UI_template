@@ -225,4 +225,8 @@
   .icon-card{
         margin-bottom: 10px;
   }
+  .icon-card-container{
+        margin-top: -120px;
+}
+  
 }
