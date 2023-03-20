@@ -64,7 +64,7 @@
         color: blue;
 }
 .icon-card-container{
-        margin-top: -120px;
+        margin-top: -150px;
 }
 .agency_image{
         width: 100%;
@@ -80,7 +80,7 @@
         color: black !important;
         text-decoration: none !important;
 }
-..whyus-title:hover{
+.whyus-title:hover{
         text-decoration: none !important;
 }
 .numeric{
